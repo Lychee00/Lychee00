@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My Course Repositories
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=Lychee00&repo=2021-ns-public-Lychee00">](https://github.com/Lychee00/2021-ns-public-Lychee00)
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=Lychee00&repo=2021-linux-public-Lychee00">](https://github.com/Lychee00/2021-linux-public-Lychee00)
+
