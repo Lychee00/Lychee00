@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Lychee! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
 
 <!--
 **Lychee00/Lychee00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My Course Repositories
+[![Lychee00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lychee00&show_icons=true&theme=merko)](https://github.com/Lychee00/github-readme-stats)
+
+
+🌱 Currently Course Repositories 🌱
+
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=Lychee00&repo=2021-ns-public-Lychee00">](https://github.com/Lychee00/2021-ns-public-Lychee00)
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=Lychee00&repo=2021-linux-public-Lychee00">](https://github.com/Lychee00/2021-linux-public-Lychee00)
 
